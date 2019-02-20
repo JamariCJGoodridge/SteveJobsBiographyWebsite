@@ -1,0 +1,65 @@
+html {
+  display: flex;
+  width: 100%;
+  text-align: center;
+  z-index: 1;
+  border-radius: 20px;
+  background: linear-gradient(35deg, #1ff, #fff);
+  font-family: "Times New Roman", arial;
+  
+}
+#title {
+  font-family: "Nova Flat";
+}
+h1 {
+  font-size: 48pt;
+}
+h2{
+  font-size: 28pt;
+}
+#img-div {
+  height: auto;
+  padding-top: 4%;
+  padding-bottom: 1%;
+  width: 75%;
+  margin: auto;
+  background-color: #000;
+}
+img {
+  max-width: 80%;
+  height: auto;
+}
+#img-caption {
+  color: #FFF;
+  font-size: 16pt;
+}
+#main {
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+#tribute-info {
+  font-size: 24pt;
+}
+ul {
+  max-width: 650px;
+  margin: auto;
+  font-size: 16pt;
+}
+li {
+  padding-bottom: 10px;
+  text-align: left;
+}
+.year {
+  display: inline;
+  font-weight: bold;
+}
+#quote {
+  font-size: 14pt;
+}
+#finish {
+  font-size: 16pt;
+}
+#copyright {
+  display: block;
+  font-size: 8pt;
+  margin-left: 75%;
+}
